@@ -5,7 +5,7 @@ My dream is to become a game designer and game developer.
 I judge people by how they bring value to others.
 Effort and effort are what I can do.
 
-![BaovaDatMeme](https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/328512244_169105272146579_8444469109161930507_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=6EC-wWNCAv0AX-MIH7v&_nc_ht=scontent-hkt1-2.xx&oh=00_AfDi-SIy4H931i9LVWVNeA4VL7M1fejQ-O11a7uxcymeew&oe=6407D15B)
+![BaovaDatMeme]https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/319988746_673753431143938_4064856798030452708_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=19026a&_nc_ohc=1BerR-CAPW0AX8vWukA&_nc_ht=scontent.fhan14-3.fna&oh=00_AfA_16JqZBWvPcJd9xcVFtQfZkiD_BDnpRHbje557j6KPQ&oe=6472134E)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyenthaibao3303/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/orions_son303/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@_victordave3ka) 
