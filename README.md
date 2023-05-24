@@ -5,7 +5,7 @@ My dream is to become a game designer and game developer.
 I judge people by how they bring value to others.
 Effort and effort are what I can do.
 
-![BaovaDatMeme]([[https://www.facebook.com/photo/?fbid=713926367409508&set=pcb.713928247409320](https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/349081643_273951868407661_874933292464038314_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=_0UqLKlmvtEAX82GWcK&_nc_ht=scontent.fdad3-4.fna&oh=00_AfBd1u2MA19QfkPD5SE4M_OveA6sFju0gPNNzW_oDnJOhQ&oe=64726526](https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/349081643_273951868407661_874933292464038314_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=_0UqLKlmvtEAX82GWcK&_nc_ht=scontent.fdad3-4.fna&oh=00_AfBd1u2MA19QfkPD5SE4M_OveA6sFju0gPNNzW_oDnJOhQ&oe=64726526)))
+![BaovaDatMeme](https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/349081643_273951868407661_874933292464038314_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=_0UqLKlmvtEAX82GWcK&_nc_ht=scontent.fdad3-4.fna&oh=00_AfBd1u2MA19QfkPD5SE4M_OveA6sFju0gPNNzW_oDnJOhQ&oe=64726526)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyenthaibao3303/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/orions_son303/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@_victordave3ka) 
