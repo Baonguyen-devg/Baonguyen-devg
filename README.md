@@ -1,2 +1,4 @@
 # 💫About Me :
-Welcome to my profile! Everyone calls me Nguyen Thai Bao. My dream is to become a game designer and game developer. I judge people by how they bring value to others. Effort and effort are what I can do.
+Two - year software engineering student, future game developer with 1-year experience in video game development programming. My ambition is to create many fantastic indie games and bring the best experience for everyone playing them.
+
+Hard skills: Bilingual (English, Vietnamese), Algorithm, Unity engine, OOP, C#.
