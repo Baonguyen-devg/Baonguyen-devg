@@ -5,9 +5,8 @@ Hard skills: Algorithm, Unity engine, OOP, C#.
 <h3 align="center">A game developer from Viet Nam</h3>
 
 # 📊GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baonguyen-devg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
+![](https://github-readme-stats.vercel.app/api?username=Baonguyen-devg&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baonguyen-devg&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
