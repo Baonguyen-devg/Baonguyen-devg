@@ -5,5 +5,4 @@ Two - year software engineering student, future game developer with 1-year exper
 
 # 📊GitHub Status:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baonguyen-devg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baonguyen-devg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
