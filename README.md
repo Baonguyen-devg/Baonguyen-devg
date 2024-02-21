@@ -1,5 +1,5 @@
 <h1 align="center">💫Introdution ~ [ A game developer from Viet Nam ]</h1>
-Two - year software engineering student, future game developer with 1-year experience in video game development programming. My ambition is to create many fantastic indie games and bring the best experience for everyone playing them.
+I am currently in my 3rd year at FPT University Da Nang, spending 2 years self - learning Unity and doing in - depth research on 2D game programming. With my passion and constant desire to learn, I have actively participated in game development projects, especially contributing to projects of the game development team at the FU - Dever club at school. 
 
 <h5>Hard skills: Algorithm, Unity engine, OOP, C#.</h5>
 
