@@ -2,7 +2,12 @@
 I am currently in my 3rd year at FPT University Da Nang, spending 2 years self - learning Unity and doing in - depth research on 2D game programming. With my passion and constant desire to learn, I have actively participated in game development projects, especially contributing to projects of the game development team at the FU - Dever club at school. 
 
 <h3 align="left">Skills:</h3>
-![#f03c15](https://placehold.co/200x50?text=Teamwork)
+Teamwork
+Logical thinking in problem-solving
+Self-Learning 
+Work independently
+Project Management
+Researching
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -14,11 +19,6 @@ I am currently in my 3rd year at FPT University Da Nang, spending 2 years self -
 </a>
 </p>
 
-<div align="center">
-  <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
- ![snake animation](https://github.com/Baonguyen-devg/Baonguyen-devg/blob/output/github-contribution-grid-snake2.svg)
-</div>
 
 # 📊Famous people's sayings:
 
