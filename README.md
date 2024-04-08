@@ -2,10 +2,7 @@
 I am currently in my 3rd year at FPT University Da Nang, spending 2 years self - learning Unity and doing in - depth research on 2D game programming. With my passion and constant desire to learn, I have actively participated in game development projects, especially contributing to projects of the game development team at the FU - Dever club at school. 
 
 <h3 align="left">Skills:</h3>
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Teamwork`
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Problem Solving`
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Teamwork`
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Communication`
+![#f03c15](https://placehold.co/200x50?text=Teamwork)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
