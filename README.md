@@ -1,4 +1,4 @@
-<h1 align="center">💫Introdution ~ [ A game developer from Viet Nam ]</h1>
+<h1 align="center">💫Introdution ~ [ A Unity Game Developer from Viet Nam ]</h1>
 <div align="center">
     <h2>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=1000&lines=Hey..+I'm+Nguyen+Thai+Bao;This+is+my+Github;" alt="Typing SVG"/>
@@ -30,5 +30,4 @@ Researching
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baonguyen-devg&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baonguyen-devg&theme=dark&utcOffset=8)
 
