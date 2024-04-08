@@ -1,4 +1,9 @@
 <h1 align="center">💫Introdution ~ [ A game developer from Viet Nam ]</h1>
+<div align="center">
+    <h2>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=1000&lines=Hey..+I'm+Nguyen+Thai+Bao;This+is+my+Github;" alt="Typing SVG"/>
+    </h2>
+</div>
 I am currently in my 3rd year at FPT University Da Nang, spending 2 years self - learning Unity and doing in - depth research on 2D game programming. With my passion and constant desire to learn, I have actively participated in game development projects, especially contributing to projects of the game development team at the FU - Dever club at school. 
 
 <h3 align="left">Skills:</h3>
@@ -23,3 +28,5 @@ Researching
 # 📊Famous people's sayings:
 
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Baonguyen-devg&theme=github-compact)](https://github.com/Baonguyen-devg/github-readme-activity-graph)
