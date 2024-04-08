@@ -5,6 +5,9 @@
     </h2>
 </div>
 I am currently in my 3rd year at FPT University Da Nang, spending 2 years self - learning Unity and doing in - depth research on 2D game programming. With my passion and constant desire to learn, I have actively participated in game development projects, especially contributing to projects of the game development team at the FU - Dever club at school. 
+![alt text](https://github.com/Baonguyen-devg/Baonguyen-devg/blob/main/image.jpg?raw=true)
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baonguyen-devg&theme=dark)
 
 <h3 align="left">Skills:</h3>
 Teamwork
@@ -27,6 +30,6 @@ Researching
 
 # 📊Famous people's sayings:
 
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baonguyen-devg&theme=dark)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Baonguyen-devg&theme=github-compact)](https://github.com/Baonguyen-devg/github-readme-activity-graph)
