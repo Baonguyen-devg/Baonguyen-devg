@@ -14,6 +14,9 @@ I am currently in my 3rd year at FPT University Da Nang, spending 2 years self -
 </a>
 </p>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Baonguyen-devg/Baonguyen-devg/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 # 📊Famous people's sayings:
 
