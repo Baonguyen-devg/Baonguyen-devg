@@ -4,10 +4,26 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=1000&lines=Hey..+I'm+Nguyen+Thai+Bao;This+is+my+Github;" alt="Typing SVG"/>
     </h2>
 </div>
-I am currently in my 3rd year at FPT University Da Nang, spending 2 years self - learning Unity and doing in - depth research on 2D game programming. With my passion and constant desire to learn, I have actively participated in game development projects, especially contributing to projects of the game development team at the FU - Dever club at school. <br><br>
+I am currently in my 3rd year at FPT University Da Nang, spending 2 years self - learning Unity and doing in - depth research on 2D game programming. With my passion and constant desire to learn, I have actively participated in game development projects, especially contributing to projects of the game development team at the <a href="https://www.facebook.com/FPTUDever">FU - Dever club</a> at school. <br><br>
 
 ![](https://github.com/Baonguyen-devg/Baonguyen-devg/blob/main/image.png)
 
+
+<h2 align="center">
+  <img src="https://github.com/Baonguyen-devg/Baonguyen-devg/assets/44467739/360f55d4-5ac7-4b3f-9d5f-e25e8e99d52c" width="30">  
+  SOFT SKILLS
+</h2>
+<p align="center">
+I believe that soft skills are not only crucial for personal development but also pivotal factors for career advancement and success in life. Therefore, I always prioritize the development and enhancement of   my soft skills as a top goal in my personal objectives.<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Logical_thinking_in_problem_solving-006d32?style=for-the-badge&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/Researching-26a641?style=for-the-badge&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/Project_management-39d353?style=for-the-badge&logoColor=white" alt=""/><br>
+  <img src="https://img.shields.io/badge/Teamwork-39d353?style=for-the-badge&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/Self_learning-26a641?style=for-the-badge&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/Work_independently-006d32?style=for-the-badge&logoColor=white" alt=""/>
+</div>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
