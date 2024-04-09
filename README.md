@@ -11,7 +11,7 @@ I am currently in my 3rd year at FPT University Da Nang, spending 2 years self -
 
 <h2 align="center">
   <img src="https://github.com/Baonguyen-devg/Baonguyen-devg/assets/44467739/360f55d4-5ac7-4b3f-9d5f-e25e8e99d52c" width="30">  
-  SOFT SKILLS
+  Soft skills
 </h2>
 <p align="center">
 I believe that soft skills are not only crucial for personal development but also pivotal factors for career advancement and success in life. Therefore, I always prioritize the development and enhancement of   my soft skills as a top goal in my personal objectives.<br>
@@ -25,7 +25,10 @@ I believe that soft skills are not only crucial for personal development but als
 </div>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">
+  <img src="https://github.com/Baonguyen-devg/Baonguyen-devg/assets/44467739/affac326-9eeb-40b5-970a-cb8c9b6b4c69" width="35">  
+  Languages and tools
+</h2>
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -38,8 +41,6 @@ I believe that soft skills are not only crucial for personal development but als
 <div align="center">
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baonguyen-devg&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baonguyen-devg&theme=dark)
 
 </div>
 
