@@ -38,9 +38,18 @@ I believe that soft skills are not only crucial for personal development but als
 </a>
 </p>
 
+<h2 align="center"> Projects </h2>
 <div align="center">
     
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Baonguyen-devg&theme=github-compact)](https://github.com/Baonguyen-devg/github-readme-activity-graph)
 
+</div>
+
+<h2 align="center"> 🌐 Contact </h2>
+<div align="center">
+Connect with Me: Let's Stay in Touch!<br>
+Feel free to reach out through any of the following means<br><br>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/baonguyen.devg/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/13010.orison/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baonguyendevg/) 
 </div>
 
