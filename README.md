@@ -41,7 +41,7 @@ I believe that soft skills are not only crucial for personal development but als
 <h2 align="center"> Projects </h2>
 <div align="center">
     
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Baonguyen-devg&theme=github-compact)](https://github.com/Baonguyen-devg/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baonguyen-devg&theme=dark)
 
 </div>
 
